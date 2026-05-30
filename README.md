@@ -1,6 +1,6 @@
 # Towards Acoustic World Models: Benchmarking Physics-Grounded Reasoning in Audio-Language Models (AWM-Bench)
 
-[![Dataset](https://img.shields.io/badge/%F0%9F%A5%97-Hugging%20Face-yellow)]([INSERT_HF_LINK_HERE](https://huggingface.co/datasets/haotian77/AWM-Bench))
+[![Dataset](https://img.shields.io/badge/%F0%9F%A5%97-Hugging%20Face-yellow)](https://huggingface.co/datasets/haotian77/AWM-Bench)
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the official dataset, prompts, and evaluation scripts for **AWM-Bench**, a benchmark designed to evaluate physics-grounded reasoning in Audio-Language Models (ALMs).
