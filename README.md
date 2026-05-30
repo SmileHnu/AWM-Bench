@@ -18,7 +18,7 @@ While current Audio-Language Models (ALMs) excel at semantic audio recognition a
 Unlike existing semantic benchmarks, AWM-Bench consists of **13 tasks** specifically designed to reduce reliance on linguistic shortcuts, forcing models to rely on physical cues like frequency, amplitude, phase, and spatial differences.
 
 <p align="center">
-  <img src="docs/overview.png" alt="AWM-Bench Overview" width="80%">
+  <img src="main_type3.pdf" alt="AWM-Bench Overview" width="80%">
 </p>
 
 ---
